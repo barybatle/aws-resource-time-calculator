@@ -46,7 +46,7 @@ This script allows you to analyze CloudFormation stack events to determine the c
     - `REGION`: AWS region (default is 'eu-west-1').
 
 5. Review the output, which will display resources with the longest creation or deletion times. 
-- Alternatively you can add > file.txt' to command so it saves output to a file.
+- Alternatively you can add '> file.txt' to command so it saves output to a file.
 
 ## Example
 
